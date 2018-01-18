@@ -1,0 +1,70 @@
+.center {
+  margin: auto;
+  width: 30%;
+}
+
+.sign-up-wrapper {
+  font-family: 'AvenirNext',Avenir,
+               "Helvetica Neue",Helvetica,
+               Arial,sans-serif;
+
+}
+
+form {
+  background-color: white;
+  display: inline-block;
+  text-align: center;
+  border: 1px solid #d0d4db;
+  margin: auto;
+  padding: 0 15px; 
+  width: 90%;
+}
+
+#form-nav {
+  display: inline-block;
+  margin: auto;
+  width: 90%
+}
+
+ul {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  margin-top: 15px;
+  padding: 0;
+  height: 100%;
+}
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: #5c6066;
+  padding: 8px;
+  height: 23px
+
+}
+
+img {
+  width: 25px;
+  height: auto;
+  vertical-align: middle;
+}
+
+fieldset {
+  border: none;
+}
+
+.divider {
+  border-top: 1px solid #d0d4db;
+  height: 1px;
+  display: block;
+  margin: 10px auto;
+}
+
+body {
+  background-color: #e6e9ef;
+}
